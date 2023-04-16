@@ -1,3 +1,8 @@
+/*
+Dado o Fluxograma, desenvolva o algoritmo abaixo na Linguagem Java.
+As variáveis devem ser do tipo float.
+*/
+
 package Variaveis_e_Operadores;
 
 import java.util.Scanner;

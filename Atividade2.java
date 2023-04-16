@@ -1,3 +1,8 @@
+/*
+Elabore um algoritmo em Java que leia 4 notas de um participante, 
+em variáveis do tipo float e exiba na tela a média final do participante.
+*/
+
 package Variaveis_e_Operadores;
 
 import java.util.Scanner;

@@ -1,3 +1,10 @@
+/*
+Elabore um algoritmo em Java, que leia o Salário Bruto, 
+o Adicional Noturno, as Horas Extras e os Descontos de um Colaborador, 
+em variáveis do tipo float e exiba na tela o Salário Líquido.
+SALÁRIO LÍQUIDO = SALÁRIO BRUTO + ADICIONAL NOTURNO + (HORAS EXTRAS * 5) - DESCONTOS
+*/
+
 package Variaveis_e_Operadores;
 
 import java.util.Scanner;
